@@ -1,3 +1,41 @@
 <resources>
-    <string name="app_name">Task</string>
+    <string name="app_name">Assessment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to QPay!</string>
+
+    <string name="description">Experience seamless, secure, and lightning-fast payments.
+Send, receive, and manage your money effortlessly anytime, anywhere!</string>
+    <string name="receiving_money">Receiving Money</string>
+    <string name="elsa">Elsa</string>
+    <string name="upi">56759909-0909@qpay</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="add_money">Add Money</string>
+    <string name="balance">$23,768.56</string>
+    <string name="sbi_card_no">XXX 2809</string>
+    <string name="manage">Manage</string>
+    <string name="state_bank_of_india">State Bank Of India</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="primary">Primary</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="security_and_protection">Security and Protection</string>
+    <string name="screen_lock">Screen Lock</string>
+    <string name="biometric_and_screen_lock">Biometric and Screen Lock</string>
+    <string name="reset_your_app_password">Reset your app password</string>
+    <string name="change_password">Change Password</string>
+    <string name="setting_and_preferences">Setting and Preferences</string>
+    <string name="languages">Languages</string>
+    <string name="choose_language_english">Choose language english</string>
+    <string name="permissions">Permissions</string>
+    <string name="manage_data_sharing_setting">Manage data sharing setting</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="help">Help</string>
+    <string name="biometrics_and_screen_locks">Biometrics and screen locks</string>
+    <string name="report_fraud">Report Fraud</string>
+    <string name="you_can_report_here">You can report here</string>
+    <string name="privacy_and_policy">Privacy and Policy</string>
+    <string name="read_privacy_and_policy">Read privacy and policy</string>
+    <string name="about">About</string>
+    <string name="about_us">About us</string>
+    <string name="logout_icon">Logout Icon</string>
+    <string name="logout">Logout</string>
 </resources>
